@@ -1,0 +1,6 @@
+c:\users\88018\onedrive\documents\visual studio 2017\Projects\LAB\LAB\bin\Debug\LAB.exe.config
+c:\users\88018\onedrive\documents\visual studio 2017\Projects\LAB\LAB\bin\Debug\LAB.exe
+c:\users\88018\onedrive\documents\visual studio 2017\Projects\LAB\LAB\bin\Debug\LAB.pdb
+c:\users\88018\onedrive\documents\visual studio 2017\Projects\LAB\LAB\obj\Debug\LAB.csprojResolveAssemblyReference.cache
+c:\users\88018\onedrive\documents\visual studio 2017\Projects\LAB\LAB\obj\Debug\LAB.exe
+c:\users\88018\onedrive\documents\visual studio 2017\Projects\LAB\LAB\obj\Debug\LAB.pdb
